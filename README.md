@@ -3,6 +3,6 @@ ON
 TRAFFIC CONTROL USING BIG DATA
 
 TEAM MEMBERS:
-Bhavesh Mahajan (35)
-Prashant Nane (38)
+Bhavesh Mahajan (35),
+Prashant Nane (38),
 Prajyot Pawar (52)
